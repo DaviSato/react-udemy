@@ -1,7 +1,7 @@
 # React Udemy
 Curso de React - Maximilian Schwarzmüller
 
-## Conteúdos aplicados nesta seção
+## Conteúdos aplicados no primeiro projeto
 - Construindo interface de usuário com componentes
 - Usando, compartilhando e produzindo dados
 - Lidando com eventos do usuário (ex: onCLick)
